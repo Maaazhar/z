@@ -16,6 +16,7 @@ type Comment = {
 }
 
 type Params = {
+  
   params: {
     id: string
   }
